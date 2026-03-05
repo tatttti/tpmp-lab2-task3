@@ -1,0 +1,21 @@
+# Author: Tanya Golovkova
+# Makefile for tpmp-lab2-task3 project
+
+bin/program: obj/main.o obj/group.o
+    gcc -o bin/program obj/main.o obj/group.o
+
+obj/main.o: src/main.c include/group.h
+    gcc -c src/main.c -o obj/main.o
+
+obj/group.o: src/group.c include/group.h
+    gcc -c src/group.c -o obj/group.o
+
+check:
+    @echo "check target executed"
+
+distcheck:
+    @echo "distcheck target executed"
+
+clean:
+    rm -f obj/*.o bin/program
+
