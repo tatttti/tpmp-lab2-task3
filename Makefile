@@ -1,6 +1,7 @@
 # Author: Tanya Golovkova
 # Makefile for tpmp-lab2-task3 project
 
+bin/program: obj/main.o obj/group.o | bin
 	gcc -o bin/program obj/main.o obj/group.o
 
 obj/main.o: src/main.c include/group.h | obj
