@@ -12,8 +12,7 @@ The program:
 **Golovkova Tatyana**, 10a group (tatttti)
 
 ## Usage
-Build with `make`, run with `./main`.
-All source files are located in the src directory.
+Build with `make`, run with `./bin/program`.
 The project uses a Makefile for compilation and GitHub Actions for CI.
 
 ## Additional Notes
