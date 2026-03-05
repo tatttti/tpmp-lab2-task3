@@ -25,3 +25,4 @@ distcheck:
 clean:
     rm -f obj/*.o bin/program
 
+
