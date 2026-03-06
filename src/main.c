@@ -1,7 +1,7 @@
 /* Author: Tanya Golovkova */
 
 /*
- * Entry point of the program. Demonstrates usage of GROUP module.
+ * Entry point of the program. Demonstrates usage of GROUP module. (update)
  */
 
 #include "group.h"
