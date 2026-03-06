@@ -1,0 +1,25 @@
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+
+Sorted by SES:
+J 2003-10-10 avg=1.00
+I 2003-09-09 avg=2.00
+H 2003-08-08 avg=3.00
+G 2003-07-07 avg=4.00
+F 2003-06-06 avg=5.00
+E 2003-05-05 avg=6.00
+D 2003-04-04 avg=7.00
+C 2002-03-03 avg=8.00
+B 2001-02-02 avg=9.00
+A 2000-01-01 avg=10.00
+
+Students younger than 20 on 1 Dec of last year:
+No students younger than 20.

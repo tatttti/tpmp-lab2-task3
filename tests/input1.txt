@@ -1,0 +1,21 @@
+Ivanov_I 2005 12 10
+10 9 8
+Petrov_P 2004 11 30
+7 8 9
+Sidorov_S 2006 01 15
+9 9 9
+Smirnov_A 2003 05 20
+6 7 8
+Kozlov_K 2005 12 02
+10 10 10
+Orlov_O 2004 12 05
+8 8 8
+Fedorov_F 2006 11 11
+7 7 7
+Nikolaev_N 2005 01 01
+9 8 7
+Pavlov_P 2007 03 03
+10 9 10
+Egorov_E 2003 12 31
+5 6 7
+

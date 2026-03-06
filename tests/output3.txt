@@ -1,0 +1,34 @@
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+
+Sorted by SES:
+J 2009-10-10 avg=1.00
+I 2008-09-09 avg=2.00
+H 2007-08-08 avg=3.00
+G 2009-07-07 avg=4.00
+F 2008-06-06 avg=5.00
+E 2007-05-05 avg=6.00
+D 2006-04-04 avg=7.00
+C 2009-03-03 avg=8.00
+B 2008-02-02 avg=9.00
+A 2007-01-01 avg=10.00
+
+Students younger than 20 on 1 Dec of last year:
+J
+I
+H
+G
+F
+E
+D
+C
+B
+A

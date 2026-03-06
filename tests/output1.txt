@@ -1,0 +1,31 @@
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+Enter name: Enter birth date (Y M D): Enter 3 SES values:
+
+Sorted by SES:
+Egorov_E 2003-12-31 avg=6.00
+Fedorov_F 2006-11-11 avg=7.00
+Smirnov_A 2003-05-20 avg=7.00
+Petrov_P 2004-11-30 avg=8.00
+Nikolaev_N 2005-01-01 avg=8.00
+Orlov_O 2004-12-05 avg=8.00
+Sidorov_S 2006-01-15 avg=9.00
+Ivanov_I 2005-12-10 avg=9.00
+Pavlov_P 2007-03-03 avg=9.67
+Kozlov_K 2005-12-02 avg=10.00
+
+Students younger than 20 on 1 Dec of last year:
+Fedorov_F
+Nikolaev_N
+Orlov_O
+Sidorov_S
+Ivanov_I
+Pavlov_P
+Kozlov_K

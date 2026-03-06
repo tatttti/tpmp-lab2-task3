@@ -16,8 +16,8 @@ obj:
 bin:
 	mkdir -p bin
 
-check:
-	@echo "check target executed"
+check: bin/program
+	./tests/run_tests.sh
 
 distcheck:
 	@echo "distcheck target executed"
